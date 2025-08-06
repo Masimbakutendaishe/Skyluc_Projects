@@ -94,7 +94,7 @@ export default function CompanyPage() {
         <section ref={missionRef} className="scroll-mt-20">
           <h3 className="text-3xl font-bold mb-4 text-[#00acc1]">Our Mission</h3>
           <p className="text-gray-700 leading-relaxed text-lg">
-            At Teemshe, we strive to democratize access to advanced technologies like AI, IoT, and robotics by making them affordable, inclusive, and scalable. Whether it is through educational programs, custom mobile apps, or data-driven web platforms, our goal is to build a digitally empowered Africa — one solution at a time.
+            At Teemshe we strive to democratize access to advanced technologies like AI IoT and robotics by making them affordable inclusive and scalable. Whether it is through educational programs custom mobile apps or datadriven web platforms our goal is to build a digitally empowered Africa one solution at a time.
           </p>
         </section>
 
