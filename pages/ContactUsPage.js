@@ -50,7 +50,7 @@ export default function ContactUsPage() {
           transition={{ delay: 0.3 }}
           className="text-center max-w-xl mx-auto text-gray-600 mb-16"
         >
-          Send us a message and we’ll get back to you faster than your fish grow. Whether it’s a partnership, feedback, or a tech inquiry — we’re listening.
+          Send us a message and we will get back to you faster than your fish grow. Whether it’s a partnership, feedback, or a tech inquiry — we’re listening.
         </motion.p>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
