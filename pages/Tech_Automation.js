@@ -104,7 +104,7 @@ export default function TechAutomation() {
           </div>
           <div className="md:w-1/2 shadow-lg" style={{ borderRadius: 0 }}>
             <Image
-              src="/images/pik8.jpg"
+              src="/pik8.jpg"
               alt="Innovative Fleet Management"
               width={600}
               height={400}
