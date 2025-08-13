@@ -70,7 +70,7 @@ export default function ProjectsLogistics() {
           </div>
           <div className="md:w-1/2 w-full shadow-lg" style={{ borderRadius: 0 }}>
             <Image
-              src="/images/pik4.jpg"
+              src="/pik4.jpg"
               alt="Project Management"
               width={600}
               height={400}
@@ -108,7 +108,7 @@ export default function ProjectsLogistics() {
           </div>
           <div className="md:w-1/2 w-full shadow-lg" style={{ borderRadius: 0 }}>
             <Image
-              src="/images/pik5.jpg"
+              src="/pik5.jpg"
               alt="Logistics Solutions"
               width={600}
               height={400}
@@ -146,7 +146,7 @@ export default function ProjectsLogistics() {
           </div>
           <div className="md:w-1/2 w-full shadow-lg" style={{ borderRadius: 0 }}>
             <Image
-              src="/images/pik6.jpg"
+              src="/pik6.jpg"
               alt="Transport Services"
               width={600}
               height={400}
@@ -183,7 +183,7 @@ export default function ProjectsLogistics() {
           </div>
           <div className="md:w-1/2 w-full shadow-lg" style={{ borderRadius: 0 }}>
             <Image
-              src="/images/pik7.jpg"
+              src="/pik7.jpg"
               alt="Warehousing & Inventory Management"
               width={600}
               height={400}
