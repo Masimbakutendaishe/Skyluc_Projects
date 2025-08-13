@@ -128,7 +128,7 @@ export default function AboutUs() {
             transition={{ type: "spring", stiffness: 300 }}
           >
             <Image
-              src="/miss1.webp"
+              src="/pik2.jpg"
               alt="Mission and Vision"
               width={600}
               height={400}
@@ -211,7 +211,7 @@ export default function AboutUs() {
               className="bg-white shadow-lg p-6 rounded-none border-l-8 border-[#d32f2f]"
             >
               <Image
-                src={`/client1.webp`}
+                src={`/pik3.jpg`}
                 alt={`Client Success ${i}`}
                 width={400}
                 height={240}
