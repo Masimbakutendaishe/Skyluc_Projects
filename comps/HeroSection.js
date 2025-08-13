@@ -52,7 +52,7 @@ const HeroSection = () => {
         }
 
         .intro-section {
-          background-image: url('/truck1.jpg');
+          background-image: url('/3lorry.jpg');
           background-size: cover;
           background-position: center;
           height: 88vh;
