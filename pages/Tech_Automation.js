@@ -165,7 +165,7 @@ export default function TechAutomation() {
           </div>
           <div className="md:w-1/2 shadow-lg" style={{ borderRadius: 0 }}>
             <Image
-              src="/images/pik9.jpg"
+              src="/pik9.jpg"
               alt="Smart Sensor Networks"
               width={600}
               height={400}
@@ -226,7 +226,7 @@ export default function TechAutomation() {
           </div>
           <div className="md:w-1/2 shadow-lg" style={{ borderRadius: 0 }}>
             <Image
-              src="/images/3lorry.jpg"
+              src="/3lorry.jpg"
               alt="Advanced Automation Systems"
               width={600}
               height={400}
