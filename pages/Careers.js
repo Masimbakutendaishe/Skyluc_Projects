@@ -201,7 +201,7 @@ export default function Careers() {
         >
           <div className="md:w-1/2">
             <Image
-              src="/images/team-collaboration.jpg"
+              src="/images/pik11.jpg"
               alt="Team Collaboration"
               width={600}
               height={400}
@@ -371,7 +371,7 @@ export default function Careers() {
                 style={{ borderRadius: 0 }}
               >
                 <Image
-                  src={`/images/team-member-${i}.jpg`}
+                  src={`/images/pik12.webp`}
                   alt={`Team Member ${i}`}
                   width={200}
                   height={200}
