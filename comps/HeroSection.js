@@ -4,12 +4,12 @@ const services = [
   {
     title: 'Project Management',
     desc: `We expertly coordinate every stage of your projects—from planning and scheduling to execution and delivery—ensuring timelines and budgets are met. Embedded within our workflows are automation tools providing real-time progress tracking and predictive analytics.`,
-    img: 'main1.jpg',
+    img: 'pik1.jpg',
   },
   {
     title: 'Logistics & Transport',
     desc: `Comprehensive logistics services including warehousing, inventory, freight handling, and nationwide transport. Enhanced with sensor systems monitoring cargo and smart routing algorithms cutting costs and delivery times.`,
-    img: 'main3.jpg',
+    img: '3lorry.jpg',
   },
   {
     title: 'Fleet Tracking & Security',
