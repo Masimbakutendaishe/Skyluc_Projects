@@ -99,7 +99,7 @@ export default function Navbar() {
     <nav className="bg-[#0b1a3f] text-white fixed w-full z-50 shadow-lg">
       <div className="max-w-7xl mx-auto flex justify-between items-center px-5 py-3">
         <Link href="/" className="flex items-center space-x-2 text-2xl font-bold tracking-wide hover:text-[#d32f2f] transition">
-          <Image src="/skyluclogo.png" alt="Skyluc Logo" width={42} height={42} priority />
+          <Image src="/skyluclogo.png" alt="Skyluc Logo" width={72} height={72} priority />
           <span>Skyluc Projects</span>
         </Link>
 
@@ -142,7 +142,7 @@ export default function Navbar() {
                           transition hover:bg-[#d32f2f] hover:text-white
                         `}
                       >
-                        <Image src={sub.icon} alt={sub.label} width={30} height={30} />
+                        <Image src={sub.icon} alt={sub.label} width={40} height={40} />
                         <span className="text-sm font-medium">{sub.label}</span>
                       </Link>
                     ))}
