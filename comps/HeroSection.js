@@ -205,9 +205,9 @@ const HeroSection = () => {
       <section className="hero">
         <div className="intro-section">
           <h1>Skyluc Projects, Logistics & Transport</h1>
-          <p className="description">
-            A trusted South African company delivering traditional logistics and transport services, enhanced by cutting-edge automation, instrumentation, and sensor technologies — smarter, safer, and more efficient supply chains.
-          </p>
+         <p className="description">
+  Operating since 2002, Skyluc started with traditional logistics, transport, and project services, and has continuously evolved by integrating advanced technology. Today, we deliver smarter, safer, and more efficient supply chains using cutting-edge automation, instrumentation, and sensor technologies.
+</p>
         </div>
 
         <div className="scrolling-text-container">
