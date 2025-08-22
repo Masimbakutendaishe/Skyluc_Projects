@@ -27,7 +27,7 @@ const Footer = () => {
             <h3 className="text-xl font-bold mb-4">Contact Info</h3>
             <ul className="text-lg space-y-2">
               <li>Email: <a href="mailto:info@skylucprojects.co.za" className="hover:underline">info@skylucprojects.co.za</a></li>
-              <li>Phone: <a href="tel:+27834004977" className="hover:underline">+27 835058144</a></li>
+              <li>Phone: <a href="tel:+27835712235" className="hover:underline">++27 835712235</a></li>
               <li>Address: Office 311, Sheffreel House. 339 Prince George Avenue, Brakpan. 1540</li>
             </ul>
           </div>
